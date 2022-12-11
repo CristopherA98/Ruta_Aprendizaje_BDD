@@ -15,15 +15,19 @@ Este repositorio es un resumen de lo aprendido en la ruta de aprendizaje de Base
 <tbody>
 <tr class="odd">
 <td>C1-0</td>
-<td>Instalación de R y RStudio</td>
+<td>Normalización de Base de Datos</td>
 </tr>
 <tr class="even">
 <td>C1-1</td>
-<td>Introducción (Estructuras de Datos)</td>
+<td>Instalación local de un RDBMS (Windows)</td>
 </tr>
 <tr class="even">
 <td>C1-2</td>
-<td>Estructuras de Control</td>
+<td># ¿Qué es RDB y RDBMS?</td>
+</tr>
+ <tr class="even">
+<td>C1-2</td>
+<td># Historia de SQL - DDL </td>
 </tr>
 </tbody>
 </table>
@@ -31,8 +35,7 @@ Este repositorio es un resumen de lo aprendido en la ruta de aprendizaje de Base
  # Fuentes
  Repositorios GitHub de:
 * [Karen Calva](https://github.com/KarenCalva)
-* [Nestor Montaño](https://github.com/nestormontano)
-* [Victor Morales](https://github.com/vmoprojs)
+
  ## Notas
  **El repositorio del curso se irá actualizando conforme se vaya avanzando en el mismo.**
  
