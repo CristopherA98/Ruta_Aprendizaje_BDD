@@ -25,28 +25,6 @@ Este repositorio es un resumen de lo aprendido en la ruta de aprendizaje de Base
 <td>C1-2</td>
 <td>Estructuras de Control</td>
 </tr>
-</tr>
-<tr class="even">
-<td>C1-3</td>
-<td>Lectura y administración de datos</td>
-</tr>
-<tr class="even">
-<td>C1-4</td>
-<td>Manipulación de datos</td>
-</tr>
-<tr class="even">
-<td>C1-5</td>
-<td>Visualización de datos</td>
-</tr>
-<tr class="even">
-<td>C1-6</td>
-<td>Detección y tratamiento de valores faltantes y atípicos</td>
-</tr>
-</tbody>
-<tr class="even">
-<td>C1-7</td>
-<td>Regresión Lineal</td>
-</tr>
 </tbody>
 </table>
 
