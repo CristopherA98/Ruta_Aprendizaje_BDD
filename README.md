@@ -23,11 +23,11 @@ Este repositorio es un resumen de lo aprendido en la ruta de aprendizaje de Base
 </tr>
 <tr class="even">
 <td>C1-2</td>
-<td># ¿Qué es RDB y RDBMS?</td>
+<td>¿Qué es RDB y RDBMS?</td>
 </tr>
  <tr class="even">
 <td>C1-2</td>
-<td># Historia de SQL - DDL </td>
+<td>Historia de SQL - DDL </td>
 </tr>
 </tbody>
 </table>
