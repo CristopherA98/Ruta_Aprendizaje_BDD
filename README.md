@@ -34,7 +34,7 @@ Este repositorio es un resumen de lo aprendido en la ruta de aprendizaje de Base
 
  # Fuentes
  Cursos de Platzi:
-*Curso de Fundamentos de Bases de Datos [Curso de Fundamentos de Bases de Datos](https://platzi.com/cursos/bd/)
+* [Curso de Fundamentos de Bases de Datos](https://platzi.com/cursos/bd/)
 
  ## Notas
  **El repositorio del curso se irá actualizando conforme se vaya avanzando en el mismo.**
