@@ -38,5 +38,3 @@ Este repositorio es un resumen de lo aprendido en la ruta de aprendizaje de Base
 
  ## Notas
  **El repositorio del curso se irá actualizando conforme se vaya avanzando en el mismo.**
- 
- **Para poder acceder a cada unidad se debe entrar a la carpeta que indica sú número y todo el material del curso se encuentra en la carpeta 'Clases'.**
