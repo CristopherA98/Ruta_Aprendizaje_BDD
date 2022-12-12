@@ -8,7 +8,7 @@ Este repositorio es un resumen de lo aprendido en la ruta de aprendizaje de Base
 <table>
 <thead>
 <tr class="header">
-<th>Folder</th>
+<th>ID</th>
 <th>Detalle</th>
 </tr>
 </thead>
