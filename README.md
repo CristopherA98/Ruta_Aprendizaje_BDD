@@ -14,27 +14,27 @@ Este repositorio es un resumen de lo aprendido en la ruta de aprendizaje de Base
 </thead>
 <tbody>
 <tr class="odd">
-<td>C1-0</td>
+<td>1.1</td>
 <td>Normalización de Base de Datos</td>
 </tr>
 <tr class="even">
-<td>C1-1</td>
+<td>1.2</td>
 <td>Instalación local de un RDBMS (Windows)</td>
 </tr>
 <tr class="even">
-<td>C1-2</td>
+<td>1.2</td>
 <td>¿Qué es RDB y RDBMS?</td>
 </tr>
  <tr class="even">
-<td>C1-2</td>
+<td>1.3</td>
 <td>Historia de SQL - DDL </td>
 </tr>
 </tbody>
 </table>
 
  # Fuentes
- Repositorios GitHub de:
-* [Karen Calva](https://github.com/KarenCalva)
+ Cursos de Platzi:
+*Curso de Fundamentos de Bases de Datos [Curso de Fundamentos de Bases de Datos](https://platzi.com/cursos/bd/)
 
  ## Notas
  **El repositorio del curso se irá actualizando conforme se vaya avanzando en el mismo.**
