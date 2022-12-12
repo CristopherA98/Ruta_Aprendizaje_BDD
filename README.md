@@ -4,7 +4,7 @@ Este repositorio es un resumen de lo aprendido en la ruta de aprendizaje de Base
 
 
 # Contenido
-## Fundamentos de Bases de Datos
+## 1. Fundamentos de Bases de Datos
 <table>
 <thead>
 <tr class="header">
@@ -22,11 +22,11 @@ Este repositorio es un resumen de lo aprendido en la ruta de aprendizaje de Base
 <td>Instalación local de un RDBMS (Windows)</td>
 </tr>
 <tr class="even">
-<td>1.2</td>
+<td>1.3</td>
 <td>¿Qué es RDB y RDBMS?</td>
 </tr>
  <tr class="even">
-<td>1.3</td>
+<td>1.4</td>
 <td>Historia de SQL - DDL </td>
 </tr>
 </tbody>
